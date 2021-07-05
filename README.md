@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jon
 
-- 👀 I’m interested in full stack development and mobile
+- 👀 I’m interested in full stack development - from mobile to the cloud
 
 - 🌱 I’m currently learning Flutter
 
