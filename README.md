@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in full stack development - from mobile to the cloud
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning React  
 
 - 📫 Reach me at jonryanedge@gmail.com
 
